@@ -6,9 +6,14 @@ Table of Contents
 ____________________________________
 
 Python for Data Science and AI
+
   Final Assignment
+
   Labs
 
+
 Databases and SQL for Data Science
+  
   Final Assignment
+  
   Labs
