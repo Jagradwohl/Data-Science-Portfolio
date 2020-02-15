@@ -6,8 +6,19 @@ ___________________________________
 Table of Contents 
 ____________________________________
 
+Capstone
+
+Data Analysis with Python
+
+Data Visualization with Python
+
+Databases and SQL for Data Science
+
+Machine Learning with Python
+
 Python for Data Science and AI
 
 
-Databases and SQL for Data Science
+
   
+
