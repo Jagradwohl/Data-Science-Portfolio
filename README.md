@@ -6,7 +6,7 @@ ___________________________________
 Table of Contents 
 ____________________________________
 
-Capstone
+Capstone Project Analyzing Neighborhoods in Toronto and New York City
 
 Data Analysis with Python
 
